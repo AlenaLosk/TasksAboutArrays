@@ -3,6 +3,11 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="part2" type="PLAIN_TEXT" />
+      <mapping ext="part4" type="PLAIN_TEXT" />
+      <mapping ext="part3" type="PLAIN_TEXT" />
+      <mapping ext="part1" type="PLAIN_TEXT" />
+      <mapping ext="part5" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
