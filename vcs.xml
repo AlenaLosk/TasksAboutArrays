@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/Kowalski42/Petproject_on_Simple_BDD_Framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kowalski42/ThinkDataStructures.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\seale\Desktop\Тестирование при устройстве на работу\Ланит" />
+    <option name="cloneParentDir" value="C:\projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
