@@ -11,4 +11,15 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaCodeVisionSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaCodeVisionSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
+  </component>
 </application>
